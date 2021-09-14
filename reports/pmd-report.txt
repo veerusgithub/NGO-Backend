@@ -1,0 +1,1060 @@
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:7:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:7:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/CapgeminiNgoApplication.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/config/SpringFoxConfig.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/constants/DonationDistributionStatus.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/capgemini/ngo/constants/DonationDistributionStatus.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/capgemini/ngo/constants/DonationType.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/capgemini/ngo/constants/DonationType.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:30:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logger field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the logger field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	LoggerIsNotStaticFinal:	LoggerIsNotStaticFinal: The Logger variable declaration does not contain the static and final modifiers
+src/main/java/com/capgemini/ngo/controller/NgoController.java:32:	LoggerIsNotStaticFinal:	LoggerIsNotStaticFinal: The Logger variable declaration does not contain the static and final modifiers
+src/main/java/com/capgemini/ngo/controller/NgoController.java:34:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:34:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:35:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:37:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:37:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	LongVariable:	LongVariable: Avoid excessively long variable names like needyPeopleService
+src/main/java/com/capgemini/ngo/controller/NgoController.java:38:	LongVariable:	LongVariable: Avoid excessively long variable names like needyPeopleService
+src/main/java/com/capgemini/ngo/controller/NgoController.java:40:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:40:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminService field if you want a default access modifier
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:44:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:44:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:49:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:49:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:49:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:49:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeopleDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeopleDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:63:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:63:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:63:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:63:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:67:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:67:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:71:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:71:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:71:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:71:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeDto' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:79:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:79:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:79:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:79:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:83:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:83:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:87:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:87:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:87:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:87:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:97:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:97:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:103:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:103:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/controller/NgoController.java:109:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/controller/NgoController.java:113:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:113:	BooleanInstantiation:	BooleanInstantiation: Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+src/main/java/com/capgemini/ngo/controller/NgoController.java:113:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:113:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `Boolean.valueOf(true)`, prefer `Boolean.TRUE`
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/controller/NgoController.java:117:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/controller/NgoController.java:119:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/capgemini/ngo/controller/NgoController.java:119:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/capgemini/ngo/controller/NgoController.java:127:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:127:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/controller/NgoController.java:134:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/controller/NgoController.java:134:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/dao/AdminDao.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/dao/DonationDao.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/DonationDao.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/DonorDao.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/DonorDao.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNeedyPersonName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/dao/NeedyPeopleDao.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNeedyPersonName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/entity/Donation.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:11:	DataClass:	DataClass: The class 'Donation' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/entity/Donation.java:11:	DataClass:	DataClass: The class 'Donation' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/entity/Donation.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:22:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Donation.java:22:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donation.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:14:	DataClass:	DataClass: The class 'DonationDistribution' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:14:	DataClass:	DataClass: The class 'DonationDistribution' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:27:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:27:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:59:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:59:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:67:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:67:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/DonationDistribution.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:9:	DataClass:	DataClass: The class 'Donor' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/entity/Donor.java:9:	DataClass:	DataClass: The class 'Donor' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/entity/Donor.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:24:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Donor.java:24:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Donor.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:9:	DataClass:	DataClass: The class 'Employee' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/entity/Employee.java:9:	DataClass:	DataClass: The class 'Employee' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/entity/Employee.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:24:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Employee.java:24:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/Employee.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:9:	DataClass:	DataClass: The class 'NeedyPeople' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:9:	DataClass:	DataClass: The class 'NeedyPeople' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/entity/NeedyPeople.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:3:	DataClass:	DataClass: The class 'AddressDto' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/model/AddressDto.java:3:	DataClass:	DataClass: The class 'AddressDto' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/model/AddressDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/AddressDto.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'landmark' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'landmark' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pin' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pin' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pin' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pin' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'landmark' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AddressDto.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'landmark' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:3:	DataClass:	DataClass: The class 'AdminDto' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/capgemini/ngo/model/AdminDto.java:3:	DataClass:	DataClass: The class 'AdminDto' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/capgemini/ngo/model/AdminDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:11:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/AdminDto.java:11:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/AdminDto.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'adminPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:3:	DataClass:	DataClass: The class 'DonationBox' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/DonationBox.java:3:	DataClass:	DataClass: The class 'DonationBox' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/DonationBox.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:7:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:7:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationBox.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'accountNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'accountNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ngoName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ngoName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registrationNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registrationNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalCollection' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalCollection' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ngoName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ngoName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:47:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:47:	LongVariable:	LongVariable: Avoid excessively long variable names like registrationNumber
+src/main/java/com/capgemini/ngo/model/DonationBox.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registrationNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registrationNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'accountNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'accountNumber' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalCollection' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationBox.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalCollection' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:8:	DataClass:	DataClass: The class 'DonationDistribution' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:8:	DataClass:	DataClass: The class 'DonationDistribution' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=10, WMC=13)
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:14:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:14:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'distributionId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amountDistributed' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:52:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:52:	LongVariable:	LongVariable: Avoid excessively long variable names like dateOfDistribution
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:60:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:60:	LongVariable:	LongVariable: Avoid excessively long variable names like approvalOrRejectedDate
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'approvalOrRejectedDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDistribution.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:5:	DataClass:	DataClass: The class 'DonationDto' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/DonationDto.java:5:	DataClass:	DataClass: The class 'DonationDto' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/DonationDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationDto.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationAmount' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDate' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationDto.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:3:	DataClass:	DataClass: The class 'DonationItemDto' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=4, WMC=7)
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:3:	DataClass:	DataClass: The class 'DonationItemDto' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=4, WMC=7)
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:9:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:9:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemDescription' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemDescription' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemDescription' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonationItemDto.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemDescription' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:3:	DataClass:	DataClass: The class 'DonorDto' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/model/DonorDto.java:3:	DataClass:	DataClass: The class 'DonorDto' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/model/DonorDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:17:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonorDto.java:17:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorEmail' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPhone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorUsername' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/DonorDto.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donorPassword' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:3:	DataClass:	DataClass: The class 'EmployeeDto' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:3:	DataClass:	DataClass: The class 'EmployeeDto' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:17:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:17:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/EmployeeDto.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:3:	DataClass:	DataClass: The class 'NeedyPeopleDto' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:3:	DataClass:	DataClass: The class 'NeedyPeopleDto' is suspected to be a Data Class (WOC=9.091%, NOPA=0, NOAM=8, WMC=11)
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPersonName' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/model/NeedyPeopleDto.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'familyIncome' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/AdminService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'modifyEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'modifyEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllEmployee': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'approveDonation': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/AdminService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'approveDonation': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerDonor': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerDonor': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'donateToNGO': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'donateToNGO': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sendThankyouMailToDonator': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sendThankyouMailToDonator': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'forgotPassword': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'forgotPassword': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'resetPassword': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'resetPassword': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/DonorService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'emailPasswordToDonor': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/DonorService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'emailPasswordToDonor': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findNeedyPeopleById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findNeedyPeopleById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findNeedyPeopleByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findNeedyPeopleByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllNeedyPeople': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllNeedyPeople': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'helpNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/EmployeeService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'helpNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerNeedyPerson': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'requestForHelp': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'requestForHelp': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeNeedyPersonById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeNeedyPersonById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readNeedyPeopleById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readNeedyPeopleById': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readNeedyPeopleByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readNeedyPeopleByName': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readAllNeedyPeople': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/NeedyPeopleService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'readAllNeedyPeople': the method is declared in an interface type
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:40:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'result'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:40:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'result'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:56:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:56:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empList' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empList' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:67:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'empList'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:67:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'empList'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empList' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empList' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:74:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'empList'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:74:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'empList'
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:78:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:78:	LongVariable:	LongVariable: Avoid excessively long variable names like donationDistribution
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/AdminServiceImpl.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donationDistribution' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donationDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donationDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donation' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donation' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:47:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'result'
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:47:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'result'
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'donor' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/DonorServiceImpl.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleDao field if you want a default access modifier
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPerson' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPerson' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entity' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeople' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeople' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeople' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'needyPeople' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'needyPeople' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'needyPeople' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:67:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'list'
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:67:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'list'
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:75:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'list'
+src/main/java/com/capgemini/ngo/service/impl/NeedyPeopleServiceImpl.java:75:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'list'
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/capgemini/ngo/util/RecordNotFoundException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/capgemini/ngo/CapgeminiNgoApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the donorService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the needyPeopleService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	LongVariable:	LongVariable: Avoid excessively long variable names like needyPeopleService
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:34:	LongVariable:	LongVariable: Avoid excessively long variable names like needyPeopleService
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:36:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:36:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the adminService field if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addNewDonor method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addNewDonor method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the saveDonation method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the saveDonation method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the createNeedyPerson method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the createNeedyPerson method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:61:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the createEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:61:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the createEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:68:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the modifyEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:68:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the modifyEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:71:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:71:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:75:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findEmployeeById method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:75:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findEmployeeById method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:81:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findAllEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:81:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findAllEmployee method if you want a default access modifier
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:84:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/capgemini/ngo/controller/NgoControllerTest.java:84:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
